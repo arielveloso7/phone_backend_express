@@ -82,7 +82,7 @@ Morgan is installed just like all other libraries with the _npm install_ command
 
 Configure morgan so that it also shows the data sent in HTTP POST requests:
 
-![](./images/3/24.png)
+![](./images/24.png)
 
 
 This exercise can be quite challenging, even though the solution does not require a lot of code.
